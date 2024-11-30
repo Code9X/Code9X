@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 
 <br>- 🙋‍♂️ All about me is at **[My Website](https://sebinsaji.vercel.app/)**.<br><br>- 🔭 I’m currently working on `Something Intresting`.<br><br>- 🌱 I’m currently learning `React`<br><br>- 👯 I’m looking to collaborate for `Dev Projects`<br><br>- 🤔 I’m looking for help with `Competitive Programming`<br><br>- 👨‍💻 Life Hack: Learning every day :fire:
 

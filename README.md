@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="./code-coding.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://sebinsaji.vercel.app/)**
 

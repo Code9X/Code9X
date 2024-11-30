@@ -1,4 +1,10 @@
 # 💫 About Me:
+## 👨🏻‍💻 About Me:
+
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+- 🙋‍♂️ All about me is at **[My Website](https://sebinsaji.vercel.app/)**
+
 <br>- 🔭 I’m currently working on `Something Intresting`.<br><br>- 🌱 I’m currently learning `React`<br><br>- 👯 I’m looking to collaborate for `Dev Projects`<br><br>- 🤔 I’m looking for help with `Competitive Programming`<br><br>- 👨‍💻 Life Hack: Learning every day :fire:
 
 

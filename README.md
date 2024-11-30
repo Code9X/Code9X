@@ -1,4 +1,4 @@
-🙋‍♂️ All about me is at **[My Website](https://sebinsaji.vercel.app/)**
+🙋‍♂️ All about me is at **[My Website](https://sebinsaji.vercel.app/){:target="_blank" rel="noopener noreferrer"}**
 
 - 🔭 I’m currently working on `Something Intresting`.
 

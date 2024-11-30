@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About Me:
 
-<img  src="./code-coding.gif" height="290px" align="right" />
+<img  src="./code-coding.gif" width="20px" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://sebinsaji.vercel.app/)**
 
